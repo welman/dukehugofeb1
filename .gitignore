@@ -5,6 +5,7 @@ public
 *.dll
 *.so
 *.dylib
+.history
 
 # Test binary, built with `go test -c`
 *.test
