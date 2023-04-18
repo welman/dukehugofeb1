@@ -1,3 +1,12 @@
+#Notes
+
+When inside terminal (Cloud9), hugo can be run:
+
+hugo serve --bind=0.0.0.0 --port=8080 --baseURL=http://3.239.xxx.xxx/
+
+
+To get the external IP, run:  curl ipinfo.io
+
 # dukehugofeb1
 this is a Hugo continuous delivery site
 
